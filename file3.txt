@@ -1,2 +1,5 @@
 file3
 this is file3 .
+
+new changes in file3
+this is only for ......
